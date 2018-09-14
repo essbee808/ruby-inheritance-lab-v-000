@@ -5,6 +5,6 @@ class Student < User
   end
   
   def learn(" ")
-    
+    something = " "
   end
 end
