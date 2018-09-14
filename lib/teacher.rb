@@ -4,6 +4,7 @@ class Teacher < User
 
   def teach
     KNOWLEDGE.sample
+    #=> #sample will return a random element from the array
   end
   
 end
